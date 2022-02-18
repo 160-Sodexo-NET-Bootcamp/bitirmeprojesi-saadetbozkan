@@ -1,0 +1,17 @@
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Core.deps.json
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Core.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ref\ProductCatalog.Core.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Core.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Data.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Data.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.csproj.AssemblyReference.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.AssemblyInfoInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.AssemblyInfo.cs
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.csproj.CoreCompileInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.csproj.CopyComplete
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ref\ProductCatalog.Core.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\obj\Debug\net5.0\ProductCatalog.Core.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Entity.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Core\bin\Debug\net5.0\ProductCatalog.Entity.pdb

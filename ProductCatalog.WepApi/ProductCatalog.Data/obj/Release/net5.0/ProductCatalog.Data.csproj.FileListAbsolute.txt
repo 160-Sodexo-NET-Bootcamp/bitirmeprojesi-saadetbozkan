@@ -1,0 +1,15 @@
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ProductCatalog.Data.deps.json
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ProductCatalog.Data.runtimeconfig.json
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ProductCatalog.Data.runtimeconfig.dev.json
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ProductCatalog.Data.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ref\ProductCatalog.Data.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\bin\Release\net5.0\ProductCatalog.Data.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.csproj.AssemblyReference.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.AssemblyInfoInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.AssemblyInfo.cs
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.csproj.CoreCompileInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ref\ProductCatalog.Data.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Data\obj\Release\net5.0\ProductCatalog.Data.genruntimeconfig.cache

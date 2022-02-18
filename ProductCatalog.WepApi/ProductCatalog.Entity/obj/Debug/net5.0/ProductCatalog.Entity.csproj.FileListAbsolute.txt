@@ -1,0 +1,12 @@
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\bin\Debug\net5.0\ProductCatalog.Entity.deps.json
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\bin\Debug\net5.0\ProductCatalog.Entity.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\bin\Debug\net5.0\ref\ProductCatalog.Entity.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\bin\Debug\net5.0\ProductCatalog.Entity.pdb
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.csproj.AssemblyReference.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.AssemblyInfoInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.AssemblyInfo.cs
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.csproj.CoreCompileInputs.cache
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ref\ProductCatalog.Entity.dll
+C:\yazilim_kodlari\patikaBitirmeOdevi\ProductCatalog.WepApi\ProductCatalog.Entity\obj\Debug\net5.0\ProductCatalog.Entity.pdb

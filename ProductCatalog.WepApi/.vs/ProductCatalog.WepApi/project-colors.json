@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6892eec5-eab4-4e67-84ba-f67691f89634": {
+      "ProjectGuid": "6892eec5-eab4-4e67-84ba-f67691f89634",
+      "DisplayName": "ProductCatalog.Data",
+      "ColorIndex": 0
+    },
+    "48d7a014-acb5-4b86-a533-1a8f4f7e4359": {
+      "ProjectGuid": "48d7a014-acb5-4b86-a533-1a8f4f7e4359",
+      "DisplayName": "ProductCatalog.WepApi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
